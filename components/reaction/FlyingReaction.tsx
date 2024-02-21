@@ -18,6 +18,6 @@ const FlyingReaction = ({ x, y, timestamp, value }: Props) => (
       <div className='-translate-x-1/2 -translate-y-1/2 transform'>{value}</div>
     </div>
   </div>
-);  
+);
 
 export default FlyingReaction;
